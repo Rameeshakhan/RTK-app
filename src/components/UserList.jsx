@@ -1,7 +1,7 @@
 const UserList = () => {
   return (
     <div>
-      UserLsit
+    heloooooo i am from userlist component
     </div>
   )
 }
