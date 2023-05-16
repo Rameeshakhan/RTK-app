@@ -18,5 +18,5 @@ const LoaderSpinner = () => {
         </div>
     );
 };
-// a very good loader
+
 export default LoaderSpinner;
